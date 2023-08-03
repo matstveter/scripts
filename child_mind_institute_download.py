@@ -8,7 +8,7 @@ Optional:
 - file_name: Which filename to download from the Child Mind Institute dataset
 - eeg_type: Either raw or preprocessed
 
-Authors: Mats Tveter and Bucket-Master Thompus Tveitstøl
+Authors: Mats Tveter and Thomas Tveitstøl
 """
 import boto3
 from botocore import UNSIGNED
